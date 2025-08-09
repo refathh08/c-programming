@@ -10,9 +10,7 @@ int main()
     len=strlen(str);
     }
     printf("The length of string is %d\n",len);
-<<<<<<< HEAD
-}
-=======
     return 0;
 }
->>>>>>> 1c37d80 (Add length.c)
+
+
