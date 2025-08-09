@@ -8,7 +8,6 @@ int main()
     scanf("%s",str);
     for(i=0;str[i]!='\0';i++){
     len=strlen(str);
-    len++;
     }
     printf("The length of string is %d\n",len);
 }
