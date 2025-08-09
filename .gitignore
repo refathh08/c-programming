@@ -54,3 +54,7 @@ dkms.conf
 # debug information files
 *.dwo
 strings/string
+# Ignore all files in strings/ that have no file extension (typical C binaries)
+strings/*
+!strings/*.c
+!strings/*.h
