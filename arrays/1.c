@@ -1,3 +1,7 @@
+// This file is part of the C programming arrays project.
+// It demonstrates how to calculate the sum of elements in an array.
+// The program prompts the user to enter the number of elements and the elements themselves.
+// The output displays the sum of the elements.
 #include<stdio.h>
 int main()
 {

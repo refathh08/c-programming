@@ -1,3 +1,5 @@
+// This file is part of the C programming arrays project.
+// It demonstrates how to add two arrays element-wise.
 #include<stdio.h>
 int main()
 {

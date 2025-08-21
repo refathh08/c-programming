@@ -1,3 +1,7 @@
+//program to count even and odd numbers in an array
+//This program takes an array of integers and counts the number of even and odd elements
+//The user is prompted to enter the number of elements and the elements themselves
+//The output displays the count of even and odd numbers
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,8 @@
+//program to print the elements of an array in reverse order
+ //This program takes an array of integers and prints its elements in reverse order
+ //The array can have a maximum of 10 elements
+ //The user is prompted to enter the number of elements and the elements themselves
+ //The output displays the elements in reverse order
 #include<stdio.h>
 int main()
 {

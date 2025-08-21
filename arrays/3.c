@@ -1,3 +1,8 @@
+// This file is part of the C programming arrays project.
+// It demonstrates how to find the largest element in an array.
+// The program prompts the user to enter the number of elements and the elements themselves.
+// The output displays the largest element in the array.
+// The array can have a maximum of 50 elements.
 #include<stdio.h>
 int main()
 {

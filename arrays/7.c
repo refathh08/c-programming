@@ -1,3 +1,6 @@
+//Linear search in an array
+//This program searches for an element in an array using linear search
+//The array is assumed to be sorted in increasing order
 #include<stdio.h>
 int main()
 {
