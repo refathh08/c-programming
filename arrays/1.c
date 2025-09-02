@@ -5,7 +5,7 @@
 #include<stdio.h>
 int main()
 {
-    int i,n,sum=0,a[10];
+    int i,n,sum=0,a[11];
     printf("Enter the total numbers\n");
     scanf("%d",&n);
     printf("Enter %d numbers\n",n);
