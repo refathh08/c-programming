@@ -3,7 +3,7 @@
 // The program prompts the user to enter the number of elements and the elements themselves.
 // The output displays the sum of the elements.
 #include<stdio.h>
-int main()
+void main()
 {
     int i,n,sum=0,a[11];
     printf("Enter the total numbers\n");
@@ -16,5 +16,4 @@ int main()
     }
     printf("The sum of %d numbers is\n",n);
     printf("%d\n",sum);
-    return 0;
 }
