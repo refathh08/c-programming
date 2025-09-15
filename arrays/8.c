@@ -3,7 +3,7 @@
 //The user is prompted to enter the size of the matrix and its elements
 //The output displays the transposed matrix
 #include<stdio.h>
-int main(){
+void main()
     int a[10][10],i,j,n,m;
     printf("Enter the number of rows and columns of the matrix\n");
     scanf("%d%d",&n,&m);
@@ -17,5 +17,4 @@ int main(){
             printf("%d\n",a[j][i]);
         }
     }
-    return 0;
 }
