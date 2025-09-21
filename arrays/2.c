@@ -1,7 +1,7 @@
 // This file is part of the C programming arrays project.
 // It demonstrates how to add two arrays element-wise.
 #include<stdio.h>
-int main()
+void main()
 {
     int a[10],b[10],c[10],n,i;
     printf("Enter the total no of elements\n");
@@ -17,6 +17,5 @@ int main()
         printf("The resultant array is\n");
         for(i=0;i<n;i++)
         printf("%d\n",c[i]);
-    return 0;
 
 }
